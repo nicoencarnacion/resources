@@ -16,6 +16,7 @@ A curated list of some of the coolest shit on the inter web.
 - [Just My Type](http://justmytype.co/)
 - [Google Type Project](http://femmebot.github.io/google-type/)
 - [Type Genius](http://www.typegenius.com/)
+- [Typewolf](http://www.typewolf.com)
 
 ##CSS Guidelines
 - [CSSGuideline.es](http://cssguidelin.es/)
