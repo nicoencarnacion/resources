@@ -4,6 +4,7 @@ A curated list of some of the coolest shit on the inter web.
 ##Repositories
 - [Codyhouse](http://codyhouse.co)
 - [PSDDD](http://psddd.co)
+- [Web Design Repo](http://www.webdesignrepo.com)
 
 ##Beautiful Effects
 
