@@ -5,6 +5,7 @@ A curated list of some of the coolest shit on the inter web.
 - [Codyhouse](http://codyhouse.co)
 - [PSDDD](http://psddd.co)
 - [Web Design Repo](http://www.webdesignrepo.com)
+- [Dypsilon Repo](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 ##Beautiful Effects
 
