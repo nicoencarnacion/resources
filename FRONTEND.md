@@ -21,6 +21,12 @@ A curated list of some of the coolest shit on the inter web.
 - [Type Genius](http://www.typegenius.com/)
 - [Typewolf](http://www.typewolf.com)
 
+##Beautiful Fonts
+- [ATC Rosemart](https://avondaletypeco.com/atc-rosemary/)
+
+##Type Foundries
+- [Lost Type](http://losttype.com)
+- [Avondale Type Co.](https://avondaletypeco.com)
+
 ##CSS Guidelines
 - [CSSGuideline.es](http://cssguidelin.es/)
-
