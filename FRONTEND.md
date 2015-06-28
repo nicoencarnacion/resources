@@ -27,6 +27,12 @@ A curated list of some of the coolest shit on the inter web.
 ##Type Foundries
 - [Lost Type](http://losttype.com)
 - [Avondale Type Co.](https://avondaletypeco.com)
+- [House Industries](http://www.houseind.com)
+- [Font Fabric](http://fontfabric.com)
+- [Letterhead Fonts](http://www.letterheadfonts.com)
+- [Commercial Type](https://commercialtype.com)
+- [Village](http://vllg.com)
+- [Hype for Type](http://www.hypefortype.com)
 
 ##CSS Guidelines
 - [CSSGuideline.es](http://cssguidelin.es/)
