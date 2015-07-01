@@ -35,7 +35,12 @@ A curated list of some of the coolest shit on the inter web.
 - [Hype for Type](http://www.hypefortype.com)
 - [Letterhead Fonts](http://www.letterheadfonts.com)
 - [Lost Type](http://losttype.com)
+- [Typekit](https://typekit.com)
+- [Typography](http://www.typography.com)
 - [Village](http://vllg.com)
 
 ##CSS Guidelines
 - [CSSGuideline.es](http://cssguidelin.es/)
+
+##Design Philosophy
+- [Human Interface Guidelines](http://humaninterfaceguidelines.tumblr.com)
