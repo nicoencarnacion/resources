@@ -25,3 +25,6 @@
 - [Typekit](https://typekit.com)
 - [Typography](http://www.typography.com)
 - [Village](http://vllg.com)
+
+##Type Articles
+- [Professional Web Typography](https://prowebtype.com)
