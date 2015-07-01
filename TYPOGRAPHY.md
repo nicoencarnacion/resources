@@ -1,1 +1,27 @@
+# Typography Resources
 
+##Font Pairing
+- [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
+- [Fonts.com Fontology](http://www.fonts.com/content/learning/fontology)
+- [Fonts in Use](http://fontsinuse.com)
+- [Font Pair](http://fontpair.co/)
+- [Google Type Project](http://femmebot.github.io/google-type/)
+- [Just My Type](http://justmytype.co/)
+- [Typ.io](http://typ.io/)
+- [Typeconnection](http://www.typeconnection.com/matches.php)
+- [Typewolf](http://www.typewolf.com)
+- [Type Genius](http://www.typegenius.com/)
+- [Typekit Blog](http://blog.typekit.com/2012/05/23/type-study-pairing-typefaces/)
+- [Typekit Practice](http://practice.typekit.com/reference/)
+
+##Type Foundries
+- [Avondale Type Co.](https://avondaletypeco.com)
+- [Commercial Type](https://commercialtype.com)
+- [Font Fabric](http://fontfabric.com)
+- [House Industries](http://www.houseind.com)
+- [Hype for Type](http://www.hypefortype.com)
+- [Letterhead Fonts](http://www.letterheadfonts.com)
+- [Lost Type](http://losttype.com)
+- [Typekit](https://typekit.com)
+- [Typography](http://www.typography.com)
+- [Village](http://vllg.com)
