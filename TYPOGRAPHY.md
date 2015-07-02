@@ -18,18 +18,17 @@
 - [Avondale Type Co.](https://avondaletypeco.com)
 - [Commercial Type](https://commercialtype.com)
 - [Font Fabric](http://fontfabric.com)
+- [Frere-Jones Type](http://www.frerejones.com) *_New releases are planned for later in the year_
+- [Hoefler & Co.](http://www.typography.com)
 - [House Industries](http://www.houseind.com)
 - [Hype for Type](http://www.hypefortype.com)
-- [Letterhead Fonts](http://www.letterheadfonts.com)
-- [Lost Type](http://losttype.com)
-- [Typekit](https://typekit.com)
-- [Typography](http://www.typography.com)
-- [Village](http://vllg.com)
 - [Impallari Type](http://www.impallari.com)
 - [Klim Type Foundry](https://klim.co.nz)
+- [Letterhead Fonts](http://www.letterheadfonts.com)
+- [Lost Type](http://losttype.com)
 - [Mark Simonson](http://www.marksimonson.com)
-- [Hoefler & Co.](http://www.typography.com)
-- [Frere-Jones Type](http://www.frerejones.com) *_New releases are planned for later in the year_
+- [Typekit](https://typekit.com)
+- [Village](http://vllg.com)
 
 ##Type Articles
 - [Professional Web Typography](https://prowebtype.com)
