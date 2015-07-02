@@ -25,6 +25,19 @@
 - [Typekit](https://typekit.com)
 - [Typography](http://www.typography.com)
 - [Village](http://vllg.com)
+- [Impallari Type](http://www.impallari.com)
+- [Klim Type Foundry](https://klim.co.nz)
+- [Mark Simonson](http://www.marksimonson.com)
+- [Hoefler & Co.](http://www.typography.com)
+- [Frere-Jones Type](http://www.frerejones.com) *_New releases are planned for later in the year_
 
 ##Type Articles
 - [Professional Web Typography](https://prowebtype.com)
+
+##Type Design
+- [Design with FontForge](http://designwithfontforge.com)
+- [Briem.net](http://briem.net)
+
+##Font Testing
+- [Font Testing Page](http://www.impallari.com/testing)
+- [adhesiontext](http://www.adhesiontext.com)
