@@ -40,3 +40,6 @@
 ##Font Testing
 - [Font Testing Page](http://www.impallari.com/testing)
 - [adhesiontext](http://www.adhesiontext.com)
+
+##Font Comparison
+- [TypeCase App](http://typecaseapp.com) *Mac Only
