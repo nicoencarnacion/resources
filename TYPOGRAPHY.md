@@ -30,9 +30,6 @@
 - [Typekit](https://typekit.com)
 - [Village](http://vllg.com)
 
-##Type Articles
-- [Professional Web Typography](https://prowebtype.com)
-
 ##Type Design
 - [Design with FontForge](http://designwithfontforge.com)
 - [Briem.net](http://briem.net)
@@ -43,3 +40,9 @@
 
 ##Font Comparison
 - [TypeCase App](http://typecaseapp.com) *Mac Only
+
+##Books
+- [Thinking with Type by Ellen Lupton](http://www.thinkingwithtype.com)
+
+##Articles
+- [Professional Web Typography](https://prowebtype.com)
