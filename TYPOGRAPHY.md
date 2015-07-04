@@ -31,18 +31,23 @@
 - [Village](http://vllg.com)
 
 ##Type Design
-- [Design with FontForge](http://designwithfontforge.com)
 - [Briem.net](http://briem.net)
+- [Design with FontForge](http://designwithfontforge.com)
+- [Glossary — Fontshop](https://www.fontshop.com/glossary)
 
 ##Font Testing
-- [Font Testing Page](http://www.impallari.com/testing)
 - [adhesiontext](http://www.adhesiontext.com)
+- [Font Testing Page](http://www.impallari.com/testing)
 
 ##Font Comparison
 - [TypeCase App](http://typecaseapp.com) *Mac Only
 
 ##Books
-- [Thinking with Type by Ellen Lupton](http://www.thinkingwithtype.com)
+- [_Shady Characters_](http://www.shadycharacters.co.uk/) by Keith Houston
+- [_The Elements of Typographic Style_](http://www.amazon.co.uk/exec/obidos/ASIN/0881792128/jalfrezi-21/) by Robert Bringhurst
+- [_The Stroke: Theory of Writing_](https://hyphenpress.co.uk/products/books/978-0-907259-30-5) by Gerrit Noordzij
+- [_Thinking with Type_](http://www.thinkingwithtype.com) by Ellen Lupton
+- [_Typography Referenced_](http://www.amazon.com/Typography-Referenced-Comprehensive-Language-Practice/dp/1592537022) by Jason Tselentis, Allan Haley, Richard Poulin, Tony Seddon, Gerry Leonidas, Ina Saltz, Kathryn Henderson & Tyler Alterman
 
 ##Articles
 - [Professional Web Typography](https://prowebtype.com)
