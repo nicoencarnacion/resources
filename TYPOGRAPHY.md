@@ -42,6 +42,9 @@
 ##Font Comparison
 - [TypeCase App](http://typecaseapp.com) *Mac Only
 
+##Inspiration
+- [Claire Coullon Portfolio](http://coullon.com)
+
 ##Books
 - [_Shady Characters_](http://www.shadycharacters.co.uk/) by Keith Houston
 - [_The Elements of Typographic Style_](http://www.amazon.co.uk/exec/obidos/ASIN/0881792128/jalfrezi-21/) by Robert Bringhurst
