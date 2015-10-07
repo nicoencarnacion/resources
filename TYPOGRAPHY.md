@@ -48,10 +48,14 @@
 
 ## Books
 - [_Shady Characters_](http://www.shadycharacters.co.uk/) by Keith Houston
-- [_The Elements of Typographic Style_](http://www.amazon.co.uk/exec/obidos/ASIN/0881792128/jalfrezi-21/) by Robert Bringhurst
+- [_Letters of Credit_](http://www.amazon.com/Letters-Credit-View-Type-Design/dp/1567922406) by Walter Tracy\*
+- [_Anatomy of a Typeface_](http://www.amazon.com/Anatomy-Typeface-Alexander-S-Lawson/dp/0879233338) by Alexander Lawson\*
+- [_The Elements of Typographic Style_](http://www.amazon.co.uk/exec/obidos/ASIN/0881792128/jalfrezi-21/) by Robert Bringhurst\*
 - [_The Stroke: Theory of Writing_](https://hyphenpress.co.uk/products/books/978-0-907259-30-5) by Gerrit Noordzij
 - [_Thinking with Type_](http://www.thinkingwithtype.com) by Ellen Lupton
 - [_Typography Referenced_](http://www.amazon.com/Typography-Referenced-Comprehensive-Language-Practice/dp/1592537022) by Jason Tselentis, Allan Haley, Richard Poulin, Tony Seddon, Gerry Leonidas, Ina Saltz, Kathryn Henderson & Tyler Alterman
+
+\**Together as “The Triumvirate”*
 
 ## Articles
 - [Professional Web Typography](https://prowebtype.com)
