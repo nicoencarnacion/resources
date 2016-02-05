@@ -20,6 +20,7 @@ A curated list of some of the coolest shit on the inter web.
 ## UI Inspiration
 - [pttrns](http://pttrns.com)
 - [Materialup](http://www.materialup.com)
+- [UI Garage](http://uigarage.net/)
 
 ## Design Philosophy
 - [Human Interface Guidelines](http://humaninterfaceguidelines.tumblr.com)
