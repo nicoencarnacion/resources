@@ -21,11 +21,5 @@ A curated list of some of the coolest shit on the inter web.
 - [pttrns](http://pttrns.com)
 - [Materialup](http://www.materialup.com)
 
-## CSS
-- [CSSGuideline.es](http://cssguidelin.es/)
-
 ## Design Philosophy
 - [Human Interface Guidelines](http://humaninterfaceguidelines.tumblr.com)
-
-## Grids
-- [Grid Lover](http://www.gridlover.net)
