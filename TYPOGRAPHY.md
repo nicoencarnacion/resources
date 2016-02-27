@@ -35,6 +35,10 @@
 - [Design with FontForge](http://designwithfontforge.com)
 - [Glossary — Fontshop](https://www.fontshop.com/glossary)
 
+## Learning Typography
+- [Butterick’s Practical Typography](http://practicaltypography.com/)
+- [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
+
 ## Font Testing
 - [adhesiontext](http://www.adhesiontext.com)
 - [Font Testing Page](http://www.impallari.com/testing)
