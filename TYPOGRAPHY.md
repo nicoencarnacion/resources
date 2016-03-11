@@ -29,6 +29,7 @@
 - [Mark Simonson](http://www.marksimonson.com)
 - [Typekit](https://typekit.com)
 - [Village](http://vllg.com)
+- [Open Foundry](http://open-foundry.com/)
 
 ## Type Design
 - [Briem.net](http://briem.net)
