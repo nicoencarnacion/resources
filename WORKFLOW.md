@@ -6,3 +6,12 @@
 - Avoid using phone templates. Stick to artboards. The output is easier to use in prototyping apps such as Invision.
 - Use proper numbering and naming for Artboards just as you would for Photoshop layers
 - In Sketch, make all icons and images exportable so that it will be easier to export assets in Zeplin.
+
+# Useful Sketch Plugins
+
+- [Sandros Sketch Plugins](https://github.com/alssndro/sandros-sketch-plugins)
+    - Horizontal Alignment
+    - Vertical Alignment
+    - Grid
+    - Typography
+    - Colour
