@@ -24,3 +24,7 @@ A curated list of some of the coolest shit on the inter web.
 
 ## Design Philosophy
 - [Human Interface Guidelines](http://humaninterfaceguidelines.tumblr.com)
+
+## Modals
+- [Remodal](https://github.com/VodkaBears/Remodal)
+- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
