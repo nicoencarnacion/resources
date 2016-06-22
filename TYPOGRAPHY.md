@@ -39,6 +39,7 @@
 ## Learning Typography
 - [Butterick’s Practical Typography](http://practicaltypography.com/)
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
+- [Typography Handbook](http://typographyhandbook.com)
 
 ## Working with Typography
 - [adhesiontext](http://www.adhesiontext.com)
