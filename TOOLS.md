@@ -12,6 +12,10 @@ A curated list of some of the coolest shit on the inter web.
 - [Code Guide by @mdo](http://codeguide.co/)
 - [RSCSS by Rico Sta. Cruz](http://rscss.io/)
 
+## Mockups
+- [Pravatar](http://pravatar.cc)
+- [Magic Mockups](http://magicmockups.com)
+
 ## UI Components
 ### Sliders and Carousels
 - [Royal Slider](http://dimsemenov.com/plugins/royal-slider/)
