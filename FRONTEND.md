@@ -22,6 +22,11 @@ A curated list of some of the coolest shit on the inter web.
 - [pttrns](http://pttrns.com)
 - [Materialup](http://www.materialup.com)
 - [UI Garage](http://uigarage.net/)
+- [Lapa](http://lapa.ninja/)
+- [Little Big Details](http://littlebigdetails.com/)
+- [Land Book](http://land-book.com/)
+- [UI Movement](https://uimovement.com/)
+- [Mobile Patterns](http://www.mobile-patterns.com/)
 
 ## Design Philosophy
 - [Human Interface Guidelines](http://humaninterfaceguidelines.tumblr.com)
