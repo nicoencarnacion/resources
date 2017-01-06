@@ -17,6 +17,14 @@ A curated list of some of the coolest shit on the inter web.
 - [Magic Mockups](http://magicmockups.com)
 
 ## UI Components
+
 ### Sliders and Carousels
 - [Royal Slider](http://dimsemenov.com/plugins/royal-slider/)
 - [Owl Carousel](http://owlgraphic.com/owlcarousel/)
+
+### Modals
+- [Remodal](https://github.com/VodkaBears/Remodal)
+- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+
+### Tooltips
+- [Balloon.css](http://kazzkiq.github.io/balloon.css/)
