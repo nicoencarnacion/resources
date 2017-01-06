@@ -3,12 +3,12 @@
 ## Sketch Workflow
 - To avoid slight color variations when using the color picker in Sketch, be sure to pick the color at the center of an element.
 - Use proper numbering and naming for Artboards just as you would for Photoshop layers
-
-> Editing Room
-> Editing Room - Comments
-> Editing Room - Chapters
-> Editing Room - Comments (Mobile)
-> Editing Room - Chapters (Tablet)
+>
+- Editing Room
+- Editing Room - Comments
+- Editing Room - Chapters
+- Editing Room - Comments (Mobile)
+- Editing Room - Chapters (Tablet)
 
 - Group layers. Keep everything neat and tidy!
 
