@@ -64,7 +64,3 @@
 - [_Typography Referenced_](http://www.amazon.com/Typography-Referenced-Comprehensive-Language-Practice/dp/1592537022) by Jason Tselentis, Allan Haley, Richard Poulin, Tony Seddon, Gerry Leonidas, Ina Saltz, Kathryn Henderson & Tyler Alterman
 
 \**Together as “The Triumvirate”*
-
-## Articles
-- [Professional Web Typography](https://prowebtype.com)
-- [Gestalt Theory in Typography & Design Principles](http://www.howdesign.com/resources-education/online-design-courses-education/gestalt-theory-typography-design-principles/)
