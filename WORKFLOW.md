@@ -24,4 +24,4 @@
 - Always check your work using your browser's responsive design mode.
 - Always check your work using your mobile phone.
 - Safari is the new IE. Use Safari more often.
-- When working on Rails Projects, use *rails s -b 0.0.0.0* instead of *rails s* so that you can view your project using your mobile devices.
+- When working on Rails Projects, use `rails s -b 0.0.0.0` instead of `rails s` so that you can view your project using your mobile devices.
