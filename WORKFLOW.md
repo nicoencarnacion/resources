@@ -2,7 +2,7 @@
 
 ## Sketch Workflow
 - To avoid slight color variations when using the color picker in Sketch, be sure to pick the color at the center of an element.
-- Use proper numbering and naming for Artboards just as you would for Photoshop layers. Here are some examples:
+- Use proper numbering and naming for Artboards just as you would for Photoshop layers. I make it a habit to create multiple variants of a screen or component. Here are some examples:
 
    **_Editing Room_** - Main design, in this case, for the "Editing Room".  
    **_Editing Room - Comments_** - A variant of the "Editing Room" with the comments section visible.  
@@ -11,6 +11,7 @@
    **_Editing Room - Chapters (Tablet)_** - The tablet design for the Editing Room with the chapters section visible.  
 
 - Group layers. Keep everything neat and tidy!
+- Use [Craft](https://www.invisionapp.com/craft) and [Auto Layout](https://animaapp.github.io/Auto-Layout/). It will make your life easier!
 
 ## Sketch-Zeplin Workflow
 - Be sure there are no rogue text fields in your design as this tends to show up in Zeplin
