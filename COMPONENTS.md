@@ -6,3 +6,6 @@ I always use these components so I might as well put these here. I'll be putting
 
 ## Cards
 - [Styled Details Summary Component](http://codepen.io/nicoencarnacion/pen/vyVBJg)
+
+## Tables
+- [Simple Responsive Table](http://codepen.io/nicoencarnacion/pen/ygYwav)
