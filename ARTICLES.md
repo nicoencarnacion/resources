@@ -6,3 +6,6 @@
 ## Typography
 - [Professional Web Typography](https://prowebtype.com)
 - [Gestalt Theory in Typography & Design Principles](http://www.howdesign.com/resources-education/online-design-courses-education/gestalt-theory-typography-design-principles/)
+
+## Tricks
+- [Removing Letter Spacing From Last Letter](https://iamsteve.me/blog/entry/remove-letter-spacing-from-last-letter)
