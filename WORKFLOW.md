@@ -1,5 +1,8 @@
 # Workflow
 
+## General UI Design
+- Trying to decide between a few different terms, and you’re not sure which term is best? Use [Google Trends](https://www.google.com/trends/). Google Trends compares how often people search for these terms on Google.
+
 ## Sketch Workflow
 - To avoid slight color variations when using the color picker in Sketch, be sure to pick the color at the center of an element.
 - Organize your designs using **Pages** and **Artboards**. You will find these features useful once you're working on a design file with multiple screens with multiple variants.
@@ -15,6 +18,7 @@
 
 - Group layers. If possible, convert them to Symbols. Keep everything neat and tidy!
 - Use [Craft](https://www.invisionapp.com/craft) and [Auto Layout](https://animaapp.github.io/Auto-Layout/). It will make your life easier!
+- Keep a folder with different assets organized into subfolders (e.g. food, avatars, office, etc.). This is especially useful when you're using [Craft's Data](https://www.invisionapp.com/craft), a plugin that helps you pull real content from a range of sources and place it directly in your design.
 
 ## Sketch-Zeplin Workflow
 - Be sure there are no rogue text fields in your design as this tends to show up in Zeplin
