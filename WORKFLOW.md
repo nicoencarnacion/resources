@@ -16,8 +16,8 @@
    **_Editing Room - Comments (Mobile)_** - The mobile design for the Editing Room with the comments section visible.  
    **_Editing Room - Chapters (Tablet)_** - The tablet design for the Editing Room with the chapters section visible.  
 
-- Group layers. If possible, convert them to Symbols. Keep everything neat and tidy!
-- Use [Craft](https://www.invisionapp.com/craft) and [Auto Layout](https://animaapp.github.io/Auto-Layout/). It will make your life easier!
+- Group layers. Use [Symbols and Symbol Overrides](https://medium.com/ux-power-tools/this-is-without-a-doubt-the-coolest-sketch-technique-youll-see-all-day-ddefa65ea959#.fsb60f7k2).
+- Use [Craft](https://www.invisionapp.com/craft) and [Auto Layout](https://animaapp.github.io/Auto-Layout/). This will make your life easier!
 - Keep a folder with different assets organized into subfolders (e.g. food, avatars, office, etc.). This is especially useful when you're using [Craft's Data](https://www.invisionapp.com/craft), a plugin that helps you pull real content from a range of sources and place it directly in your design.
 
 ## Sketch-Zeplin Workflow

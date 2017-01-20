@@ -30,3 +30,6 @@ A curated list of some of the coolest shit on the inter web.
 
 ## Design Philosophy
 - [Human Interface Guidelines](http://humaninterfaceguidelines.tumblr.com)
+
+## Videos
+- [CSS Variables by Lea Verou](https://www.youtube.com/watch?v=2an6-WVPuJU)
