@@ -28,8 +28,14 @@ A curated list of some of the coolest shit on the inter web.
 - [UI Movement](https://uimovement.com/)
 - [Mobile Patterns](http://www.mobile-patterns.com/)
 
-## Design Philosophy
-- [Human Interface Guidelines](http://humaninterfaceguidelines.tumblr.com)
-
 ## Videos
 - [CSS Variables by Lea Verou](https://www.youtube.com/watch?v=2an6-WVPuJU)
+
+## Articles
+- [Resilient Web Design](https://resilientwebdesign.com)
+- [Human Interface Guidelines](http://humaninterfaceguidelines.tumblr.com)
+- [Writing Style](https://material.io/guidelines/style/writing.html)
+- [Getting Practical with Microcopy](https://www.smashingmagazine.com/2016/07/getting-practical-with-microcopy/)
+
+## Tricks
+- [Removing Letter Spacing From Last Letter](https://iamsteve.me/blog/entry/remove-letter-spacing-from-last-letter)
