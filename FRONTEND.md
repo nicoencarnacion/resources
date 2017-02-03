@@ -34,7 +34,6 @@ A curated list of some of the coolest shit on the inter web.
 ## Articles
 - [Resilient Web Design](https://resilientwebdesign.com)
 - [Human Interface Guidelines](http://humaninterfaceguidelines.tumblr.com)
-- [Writing Style](https://material.io/guidelines/style/writing.html)
 - [Getting Practical with Microcopy](https://www.smashingmagazine.com/2016/07/getting-practical-with-microcopy/)
 
 ## Tricks

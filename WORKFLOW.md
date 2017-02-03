@@ -1,7 +1,12 @@
 # Workflow
 
-## General UI Design
-- Trying to decide between a few different terms, and you’re not sure which term is best? Use [Google Trends](https://www.google.com/trends/). Google Trends compares how often people search for these terms on Google.
+## General Workflow
+- Product design research. Involve developers. Identify your app's [core functionality](https://blog.intercom.com/the-dribbblisation-of-design/).
+- Work with clients and developers to produce low fidelity [paper prototypes](https://www.uxpin.com/studio/blog/paper-prototyping-the-practical-beginners-guide/).
+- Produce wireframes prototypes using Sketch and InVision to establish the flow of the app.
+- Visual design. Set up your project's styleguide. Use [Symbols and Symbol Overrides](https://medium.com/ux-power-tools/this-is-without-a-doubt-the-coolest-sketch-technique-youll-see-all-day-ddefa65ea959#.fsb60f7k2) to develop a maintainable pattern library.
+- Write microcopy. Do not neglect your UI's **microcopy**. Here's a great article on [microcopy](https://material.io/guidelines/style/writing.html). Trying to decide between a few different terms, and you’re not sure which term is best? Use [Google Trends](https://www.google.com/trends/). Google Trends compares how often people search for these terms on Google.
+- High Fidelity Mockups using InVision
 
 ## Sketch Workflow
 - To avoid slight color variations when using the color picker in Sketch, be sure to pick the color at the center of an element.
@@ -16,15 +21,14 @@
    **_Editing Room - Comments (Mobile)_** - The mobile design for the Editing Room with the comments section visible.  
    **_Editing Room - Chapters (Tablet)_** - The tablet design for the Editing Room with the chapters section visible.  
 
-- Group layers. Use [Symbols and Symbol Overrides](https://medium.com/ux-power-tools/this-is-without-a-doubt-the-coolest-sketch-technique-youll-see-all-day-ddefa65ea959#.fsb60f7k2).
 - Use [Craft](https://www.invisionapp.com/craft) and [Auto Layout](https://animaapp.github.io/Auto-Layout/). This will make your life easier!
 - Keep a folder with different assets organized into subfolders (e.g. food, avatars, office, etc.). This is especially useful when you're using [Craft's Data](https://www.invisionapp.com/craft), a plugin that helps you pull real content from a range of sources and place it directly in your design.
 
 ## Sketch-Zeplin Workflow
-- Be sure there are no rogue text fields in your design as this tends to show up in Zeplin
-- In Zeplin, name all the colors used in the design
+- Be sure there are no rogue text fields in your design. These tend to show up in Zeplin.
+- Setup your project's color palette in Zeplin. It's in the Styleguide tab.
 - Avoid using phone templates. Stick to artboards. The output is easier to use in prototyping apps such as Invision.
-- As much as possible, make all icons and images exportable in Sketch so that it will be easier to export assets in Zeplin.
+- As much as possible, make all icons(not font icons) and images exportable in Sketch so that it will be easier to export assets in Zeplin.
 
 ## Frontend Coding Workflow
 - Make it a habit to use a different *default* browser everyday. Do not stick to one browser.
