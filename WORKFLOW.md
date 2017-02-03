@@ -8,7 +8,7 @@
 - Write microcopy. Do not neglect your UI's **microcopy**. Here's a great article on [microcopy](https://material.io/guidelines/style/writing.html). Trying to decide between a few different terms, and you’re not sure which term is best? Use [Google Trends](https://www.google.com/trends/). Google Trends compares how often people search for these terms on Google.
 - High Fidelity Mockups using InVision
 
-## Sketch Workflow
+## Sketch Tips
 - To avoid slight color variations when using the color picker in Sketch, be sure to pick the color at the center of an element.
 - Organize your designs using **Pages** and **Artboards**. You will find these features useful once you're working on a design file with multiple screens with multiple variants.
 - Use proper naming for **Pages** and **Artboards** just as you would for Photoshop layers. I make it a habit to keep a screen together with its variants in a separate **Page**. Here's an example:
@@ -30,9 +30,9 @@
 - Avoid using phone templates. Stick to artboards. The output is easier to use in prototyping apps such as Invision.
 - As much as possible, make all icons(not font icons) and images exportable in Sketch so that it will be easier to export assets in Zeplin.
 
-## Frontend Coding Workflow
+## Frontend Coding Tips
 - Make it a habit to use a different *default* browser everyday. Do not stick to one browser.
 - Always check your work using your browser's responsive design mode.
-- Always check your work using your mobile phone.
+- Firefox also has **Reader View**. Use it for viewing pages with very long articles just to check if your heading hierarchy is okay.
+- Always check your work using your mobile phone. When working on Rails Projects, use `rails s -b 0.0.0.0` instead of `rails s` so that you can view your project using your mobile devices.
 - Safari is the new IE. Use Safari more often.
-- When working on Rails Projects, use `rails s -b 0.0.0.0` instead of `rails s` so that you can view your project using your mobile devices.
