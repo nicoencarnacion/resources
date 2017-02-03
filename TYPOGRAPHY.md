@@ -18,7 +18,7 @@
 - [Avondale Type Co.](https://avondaletypeco.com)
 - [Commercial Type](https://commercialtype.com)
 - [Font Fabric](http://fontfabric.com)
-- [Frere-Jones Type](http://www.frerejones.com) *_New releases are planned for later in the year_
+- [Frere-Jones Type](http://www.frerejones.com)
 - [Hoefler & Co.](http://www.typography.com)
 - [House Industries](http://www.houseind.com)
 - [Hype for Type](http://www.hypefortype.com)

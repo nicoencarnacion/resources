@@ -15,4 +15,4 @@ I always use these components so I might as well put these here. I'll be putting
 
 ## Helpers
 - [Conditional Media Queries](https://gist.github.com/nicoencarnacion/3bde5a2f9a9ab06e055719f8fd309b15)
-- [Aspect Ration Mixin](http://codepen.io/nicoencarnacion/pen/rhfJw)
+- [Aspect Ratio Mixin](http://codepen.io/nicoencarnacion/pen/rhfJw)
