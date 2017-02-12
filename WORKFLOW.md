@@ -1,7 +1,9 @@
 # Workflow
+Things that I constantly remind myself when working on projects.
 
 ## General Design Workflow
 - Product design research. Involve developers. Identify your app's [core functionality](https://blog.intercom.com/the-dribbblisation-of-design/).
+- Scenario and Storyboard creation.
 - Work with clients and developers to produce low fidelity [prototypes](https://www.uxpin.com/studio/blog/paper-prototyping-the-practical-beginners-guide/).
 - Wireframes using Sketch and [InVision](https://www.invisionapp.com/) or [Marvel](https://marvelapp.com/) to establish the flow of the app.
 - Visual design. Set up your project's styleguide using Craft. Using Craft's Style plugin will let you easily change text styles and colors. It is important to setup your library first before it gets too big to manage.
