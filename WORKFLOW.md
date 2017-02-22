@@ -6,6 +6,7 @@ Things that I constantly remind myself when working on projects.
 - Scenario and Storyboard creation.
 - Work with clients and developers to produce low fidelity [prototypes](https://www.uxpin.com/studio/blog/paper-prototyping-the-practical-beginners-guide/).
 - Wireframes using Sketch and [InVision](https://www.invisionapp.com/) or [Marvel](https://marvelapp.com/) to establish the flow of the app.
+- Design studies. Most of the time, I present at least 2 studies to clients for the first 3-5 screens/pages.
 - Visual design. Set up your project's styleguide using Craft. Using Craft's Style plugin will let you easily change text styles and colors. It is important to setup your library first before it gets too big to manage.
 - Use [Symbols and Symbol Overrides](https://medium.com/ux-power-tools/this-is-without-a-doubt-the-coolest-sketch-technique-youll-see-all-day-ddefa65ea959#.fsb60f7k2) to create a [design system](http://atomicdesign.bradfrost.com/).
 - Do not neglect your UI's **microcopy**. Here's a [great article](https://material.io/guidelines/style/writing.html) on microcopy. Trying to decide between a few different terms, and you’re not sure which term is best? Use [Google Trends](https://www.google.com/trends/). Google Trends compares how often people search for these terms on Google.
