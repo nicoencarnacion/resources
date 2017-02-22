@@ -24,11 +24,11 @@ Things that I constantly remind myself when working on projects.
 
    A **Page** named **Editing Room** might contain the following **Artboards**:
 
-   **_Editing Room_** - Main design, in this case, for the "Editing Room".  
-   **_Editing Room - Comments_** - A variant of the "Editing Room" with the comments section visible.  
-   **_Editing Room - Chapters_** - A variant of the "Editing Room" with the chapters section visible.  
-   **_Editing Room - Comments (Mobile)_** - The mobile design for the Editing Room with the comments section visible.  
-   **_Editing Room - Chapters (Tablet)_** - The tablet design for the Editing Room with the chapters section visible.  
+   **_001 - Editing Room_** - Main design, in this case, for the "Editing Room".  
+   **_002 - Editing Room - Comments_** - A variant of the "Editing Room" with the comments section visible.  
+   **_003 - Editing Room - Chapters_** - A variant of the "Editing Room" with the chapters section visible.  
+   **_004 - Editing Room - Comments (Mobile)_** - The mobile design for the Editing Room with the comments section visible.  
+   **_005 - Editing Room - Chapters (Tablet)_** - The tablet design for the Editing Room with the chapters section visible.  
 
 - Keep a folder in your machine with different assets organized into subfolders (e.g. food, avatars, office, etc.). This is especially useful when you're using Craft's Data, a plugin that helps you pull real content from a range of sources and place it directly in your design.
 - Be sure there are no rogue text fields in your design. These tend to show up in Zeplin.
