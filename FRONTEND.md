@@ -12,12 +12,12 @@
 - [Makerbook](http://makerbook.net/)
 - [Stocky](http://stocky.pro/)
 
-## Beautiful Effects
+## Effects
 - [Text Style and Hover Effects | Tympanus](http://tympanus.net/codrops/2015/05/13/inspiration-for-text-styles-and-hover-effects/) - A couple of creative text styles and hover effects for your inspiration. Some effects use experimental techniques including SVG masking and Canvas.
 - [Morphing Modal Window | Codyhouse](http://codyhouse.co/gem/morphing-modal-window/) - A call-to-action button that animates and turns into a full-size modal window.
 - [Article Intro Effect | Tympanus](http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/) - Some inspiration for effects applied to title headers of articles with a fullscreen image. The idea is to show some creative transition when continuing to the article body.
 
-## UI Inspiration
+## Inspiration
 - [pttrns](http://pttrns.com)
 - [Materialup](http://www.materialup.com)
 - [UI Garage](http://uigarage.net/)

@@ -6,11 +6,11 @@
 - [Brandcolors.net](http://brandcolors.net/)
 - [Paletton](http://paletton.com)
 
-## Lightweight Frameworks
+## Frameworks
 - [Bulma](http://bulma.io/)
 - [Jeet](http://jeet.gs/) *Under maintenance
 
-## Grid Guides
+## Grids
 - [Grid Lover](http://www.gridlover.net)
 
 ## CSS Guides

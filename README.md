@@ -1,19 +1,40 @@
-# Resources
+# Table of Contents
 
 ## Components
-- Navigation, cards, responsive forms, etc.
+- Personal Components
+- Third Party Components
 
 ## Frontend Resources
-- Frontend code and design repositories, inspiration, effects, etc.
+- Repositories
+- Effects
+- Inspiration
+- Articles
+- Tricks
 
 ## Tools
-- Color guides, CSS guides, lightweight frameworks, components, etc.
+- Colors
+- Frameworks
+- Grids
+- CSS Guides
+- Mockups
 
 ## Typography Resources
-- Books, type foundries, type inspiration, etc.
+- Font Pairing
+- Type Foundries
+- Type Design
+- Learning Typography
+- Working with Typography
+- Font Comparison
+- Inspiration
+- Books
+- Articles
 
 ## Videos
-- Videos... duh.
+- Workflow
+- Code
 
 ## Workflow
-- General workflow, redesign workflow, sketch workflow, etc.
+- General Design Workflow
+- Redesign Workflow
+- Sketch Workflow
+- Frontend Coding Tips
