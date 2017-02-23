@@ -15,9 +15,9 @@ Things that I constantly remind myself when working on projects.
 
 ## Redesign Workflow
 - Research. Talk to people who use the website/app.
-   **_1. Why should we redesign the site?_**
-   **_2. Why do you think should we redesign the site now?_**
-   **_3. How will we know if the new site is better than the old one?_**
+   **_1. Why should we redesign the site?_**  
+   **_2. Why do you think should we redesign the site now?_**  
+   **_3. How will we know if the new site is better than the old one?_**  
 - Determine OKRs
 - Visualize. OKR-based designs.
 - Element Collage
