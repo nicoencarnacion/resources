@@ -1,5 +1,4 @@
 # Frontend Resources
-A curated list of some of the coolest shit on the inter web.
 
 ## Repositories
 - [Codyhouse](http://codyhouse.co)

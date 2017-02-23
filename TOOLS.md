@@ -1,5 +1,7 @@
 # UI Tools
-A curated list of some of the coolest shit on the inter web.
+
+## Colors
+-[Paletton](http://paletton.com)
 
 ## Lightweight Frameworks
 - [Bulma](http://bulma.io/)

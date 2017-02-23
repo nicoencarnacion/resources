@@ -1,14 +1,16 @@
 # Resources
-A curated list of the coolest shit on the inter web.
 
 ## Frontend Resources
-- Curated list of the best resources
+- Frontend code and design repositories, inspiration, effects, etc.
 
 ## Typography Resources
-- Curated list of the best resources
+- Books, type foundries, type inspiration, etc.
 
 ## Components
-- A list of some custom components I always use in personal and office projects
+- Navigation, cards, responsive forms, etc.
+
+## Tools
+- Color guides, CSS guides, lightweight frameworks, components, etc.
 
 ## Workflow
-- How I work
+- General workflow, redesign workflow, sketch workflow, etc.
