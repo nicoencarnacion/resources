@@ -27,9 +27,6 @@
 - [UI Movement](https://uimovement.com/)
 - [Mobile Patterns](http://www.mobile-patterns.com/)
 
-## Videos
-- [CSS Variables by Lea Verou](https://www.youtube.com/watch?v=2an6-WVPuJU)
-
 ## Articles
 - [Resilient Web Design](https://resilientwebdesign.com)
 - [Human Interface Guidelines](http://humaninterfaceguidelines.tumblr.com)
