@@ -30,7 +30,7 @@ Things that I constantly remind myself when working on projects.
 - The **Experiments** Page contains different versions of all the components in the design that might be used in the future.
 - The **Pattern Library** contains the final elements, components and modules used in the design.
 - The **Moodboard** contains design inspirations and pegs provided by the client.
-- Use proper naming for **Pages** and **Artboards** just as you would for Photoshop layers. I make it a habit to keep a screen together with its variants in a separate **Page**. Here's an example (you don't have to follow this style):
+- Use proper naming for **Pages** and **Artboards** just as you would for Photoshop layers. I make it a habit to keep a screen together with its variants in a separate **Page**. Here's an example (you don't have to follow this style):  
 
    A **Page** named **Editing Room** might contain the following **Artboards**:
 
