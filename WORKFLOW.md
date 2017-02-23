@@ -32,13 +32,13 @@ Things that I constantly remind myself when working on projects.
 - The **Moodboard** contains design inspirations and pegs provided by the client.
 - Use proper naming for **Pages** and **Artboards** just as you would for Photoshop layers. I make it a habit to keep a screen together with its variants in a separate **Page**. Here's an example (you don't have to follow this style):
 
-   A **Page** named **Editing Room** might contain the following **Artboards**:  
+   A **Page** named **Editing Room** might contain the following **Artboards**:
+
    **_001 - Editing Room_** - Main design, in this case, for the "Editing Room".  
    **_002 - Editing Room - Comments_** - A variant of the "Editing Room" with the comments section visible.  
    **_003 - Editing Room - Chapters_** - A variant of the "Editing Room" with the chapters section visible.  
    **_004 - Editing Room - Comments (Mobile)_** - The mobile design for the Editing Room with the comments section visible.  
    **_005 - Editing Room - Chapters (Tablet)_** - The tablet design for the Editing Room with the chapters section visible.  
-
 - Keep a folder in your machine with different assets organized into subfolders (e.g. food, avatars, office, etc.). This is especially useful when you're using Craft's Data, a plugin that helps you pull real content from a range of sources and place it directly in your design.
 - Be sure there are no rogue text fields in your design. These tend to show up in Zeplin.
 - Always setup your project's color palette in Zeplin. It's in the Styleguide tab. This will make your developers' lives easier.
