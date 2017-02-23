@@ -32,8 +32,7 @@ Things that I constantly remind myself when working on projects.
 - The **Moodboard** contains design inspirations and pegs provided by the client.
 - Use proper naming for **Pages** and **Artboards** just as you would for Photoshop layers. I make it a habit to keep a screen together with its variants in a separate **Page**. Here's an example (you don't have to follow this style):
 
-   A **Page** named **Editing Room** might contain the following **Artboards**:
-
+   A **Page** named **Editing Room** might contain the following **Artboards**:  
    **_001 - Editing Room_** - Main design, in this case, for the "Editing Room".  
    **_002 - Editing Room - Comments_** - A variant of the "Editing Room" with the comments section visible.  
    **_003 - Editing Room - Chapters_** - A variant of the "Editing Room" with the chapters section visible.  
