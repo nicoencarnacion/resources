@@ -11,6 +11,7 @@
 - [Method & Craft](http://methodandcraft.com/)
 - [Makerbook](http://makerbook.net/)
 - [Stocky](http://stocky.pro/)
+- [Free O'Reilly Books](http://www.oreilly.com/design/free/)
 
 ## Effects
 - [Text Style and Hover Effects | Tympanus](http://tympanus.net/codrops/2015/05/13/inspiration-for-text-styles-and-hover-effects/) - A couple of creative text styles and hover effects for your inspiration. Some effects use experimental techniques including SVG masking and Canvas.
