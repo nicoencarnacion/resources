@@ -3,7 +3,8 @@ Things that I constantly remind myself when working on projects.
 
 ## General Design Workflow
 - Product design research. Involve developers. Identify your app's [core functionality](https://blog.intercom.com/the-dribbblisation-of-design/).
-- Scenario and Storyboard creation.
+- Scenario and storyboard creation.
+- Create user stories.
 - Work with clients and developers to produce low fidelity [prototypes](https://www.uxpin.com/studio/blog/paper-prototyping-the-practical-beginners-guide/).
 - Wireframes using Sketch and [InVision](https://www.invisionapp.com/) or [Marvel](https://marvelapp.com/) to establish the flow of the app.
 - Do not neglect your UI's **microcopy**. Here's a [great article](https://material.io/guidelines/style/writing.html) on microcopy. Trying to decide between a few different terms, and you’re not sure which term is best? Use [Google Trends](https://www.google.com/trends/). Google Trends compares how often people search for these terms on Google.
