@@ -25,3 +25,11 @@
 ## Responsive
 - [Sizzy](http://sizzy.co)
 - [Resizer](https://material.io/resizer)
+
+# Presentation
+
+## Pitch Decks
+- [Attach.io Pitch Decks](https://attach.io/startup-pitch-decks/)
+
+# UX Tools
+- [Hotjar](https://www.hotjar.com/)
