@@ -48,12 +48,16 @@
 - [Modular Scale](http://www.modularscale.com)
 - [Gridlover](http://www.gridlover.net)
 - [Gutenberg](http://matejlatin.github.io/Gutenberg/)
+- [Sassline](https://sassline.com/)
+- [MegaType](http://megatype.studiothick.com/)
+
 
 ## Font Comparison
 - [TypeCase App](http://typecaseapp.com) *Mac Only
 
 ## Inspiration
 - [Claire Coullon Portfolio](http://coullon.com)
+- [Discover Typography](https://discover.typography.com/)
 
 ## Books
 - [_Shady Characters_](http://www.shadycharacters.co.uk/) by Keith Houston
