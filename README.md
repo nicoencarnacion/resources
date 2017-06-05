@@ -15,6 +15,7 @@
 - Colors
 - Frameworks
 - Grids
+- Icons
 - CSS Guides
 - Mockups
 
