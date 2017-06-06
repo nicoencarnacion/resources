@@ -50,7 +50,7 @@
 - [Gutenberg](http://matejlatin.github.io/Gutenberg/)
 - [Sassline](https://sassline.com/)
 - [MegaType](http://megatype.studiothick.com/)
-
+- [Typeset.js](https://blot.im/typeset/)
 
 ## Font Comparison
 - [TypeCase App](http://typecaseapp.com) *Mac Only
