@@ -21,6 +21,7 @@
 - [Zondicons](http://www.zondicons.com/)
 - [Heroicons](http://www.heroicons.com/)
 - [Smashicons](https://smashicons.com)
+- [Feathericons](https://feathericons.com/)
 
 ## CSS Guides
 - [CSSGuideline.es](http://cssguidelin.es/)
