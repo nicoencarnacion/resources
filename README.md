@@ -1,7 +1,7 @@
 # Table of Contents
 
 ## Components
-- Personal Components
+- [Personal Components](https://github.com/nicoencarnacion/resources/blob/master/COMPONENTS.md#personalcomponents)
 - Third Party Components
 
 ## Frontend Resources
