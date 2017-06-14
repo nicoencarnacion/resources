@@ -17,10 +17,10 @@
 - [Grids](https://github.com/nicoencarnacion/resources/blob/master/TOOLS.md#grids)
 - [Icons](https://github.com/nicoencarnacion/resources/blob/master/TOOLS.md#icons)
 - [CSS Guides](https://github.com/nicoencarnacion/resources/blob/master/TOOLS.md#css-guides)
-- [Mockups](https://github.com/nicoencarnacion/resources/blob/master/TOOLS.md#mockups)
 - [Responsive](https://github.com/nicoencarnacion/resources/blob/master/TOOLS.md#responsive)
 - [Pitch Decks](https://github.com/nicoencarnacion/resources/blob/master/TOOLS.md#pitch-decks)
-- [UX Tools](https://github.com/nicoencarnacion/resources/blob/master/TOOLS.md#ux-tools)
+- [Mockups](https://github.com/nicoencarnacion/resources/blob/master/TOOLS.md#mockups)
+- [Analytics](https://github.com/nicoencarnacion/resources/blob/master/TOOLS.md#analytics)
 
 ## Typography Resources
 - [Font Pairing](https://github.com/nicoencarnacion/resources/blob/master/TYPOGRAPHY.md#font-pairing)

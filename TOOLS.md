@@ -28,10 +28,6 @@
 - [Code Guide by @mdo](http://codeguide.co/)
 - [RSCSS by Rico Sta. Cruz](http://rscss.io/)
 
-## Mockups
-- [Pravatar](http://pravatar.cc)
-- [Magic Mockups](http://magicmockups.com)
-
 ## Responsive
 - [Sizzy](http://sizzy.co)
 - [Resizer](https://material.io/resizer)
@@ -42,5 +38,12 @@
 ## Pitch Decks
 - [Attach.io Pitch Decks](https://attach.io/startup-pitch-decks/)
 
+## Mockups
+- [Pravatar](http://pravatar.cc)
+- [Magic Mockups](http://magicmockups.com)
+
+
 # UX Tools
+
+## Analytics
 - [Hotjar](https://www.hotjar.com/)
