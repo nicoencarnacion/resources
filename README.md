@@ -1,5 +1,4 @@
 # Table of Contents
-## Hello
 
 ## Components
 - [Personal Components](https://github.com/nicoencarnacion/resources/blob/master/COMPONENTS.md#personal-components)
