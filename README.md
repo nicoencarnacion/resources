@@ -33,12 +33,13 @@
 - [Books](https://github.com/nicoencarnacion/resources/blob/master/TYPOGRAPHY.md#books)
 - [Articles](https://github.com/nicoencarnacion/resources/blob/master/TYPOGRAPHY.md#articles)
 
-## Videos]
+## Videos
+- [YouTube Channels](https://github.com/nicoencarnacion/resources/blob/master/VIDEOS.md#youtube-channels)
 - [Workflow](https://github.com/nicoencarnacion/resources/blob/master/VIDEOS.md#workflow)
 - [Code](https://github.com/nicoencarnacion/resources/blob/master/VIDEOS.md#code)
 - [Pricing](https://github.com/nicoencarnacion/resources/blob/master/VIDEOS.md#pricing)
 
-## Workflow]
+## Workflow
 - [General Design Workflow](https://github.com/nicoencarnacion/resources/blob/master/WORKFLOW.md#general-design-workflow)
 - [Redesign Workflow](https://github.com/nicoencarnacion/resources/blob/master/WORKFLOW.md#redesign-workflow)
 - [Sketch Workflow](https://github.com/nicoencarnacion/resources/blob/master/WORKFLOW.md#sketch-workflow)
