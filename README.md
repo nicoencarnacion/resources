@@ -5,6 +5,7 @@
 - [Third Party Components](https://github.com/nicoencarnacion/resources/blob/master/COMPONENTS.md#third-party-components)
 
 ## Frontend Resources
+- [Premium Resources](https://github.com/nicoencarnacion/resources/blob/master/FRONTEND.md#premium-resources)
 - [Repositories](https://github.com/nicoencarnacion/resources/blob/master/FRONTEND.md#repositories)
 - [Effects](https://github.com/nicoencarnacion/resources/blob/master/FRONTEND.md#effects)
 - [Inspiration](https://github.com/nicoencarnacion/resources/blob/master/FRONTEND.md#inspiration)

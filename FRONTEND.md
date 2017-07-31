@@ -1,5 +1,9 @@
 # Frontend Resources
 
+## Premium Resources
+- [LStore Graphics](https://lstore.graphics)
+- [360mockups](https://360mockups.com/)
+
 ## Repositories
 - [Codyhouse](http://codyhouse.co)
 - [PSDDD](http://psddd.co)
