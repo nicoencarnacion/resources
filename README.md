@@ -4,6 +4,10 @@
 - [Personal Components](https://github.com/nicoencarnacion/resources/blob/master/COMPONENTS.md#personal-components)
 - [Third Party Components](https://github.com/nicoencarnacion/resources/blob/master/COMPONENTS.md#third-party-components)
 
+## Sketch Resources
+- [Plugins](https://github.com/nicoencarnacion/resources/blob/master/SKETCH.md#plugins)
+- [Workflow](https://github.com/nicoencarnacion/resources/blob/master/SKETCH.md#workflow)
+
 ## Frontend Resources
 - [Premium Resources](https://github.com/nicoencarnacion/resources/blob/master/FRONTEND.md#premium-resources)
 - [Repositories](https://github.com/nicoencarnacion/resources/blob/master/FRONTEND.md#repositories)
