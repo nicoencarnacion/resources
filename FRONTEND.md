@@ -36,6 +36,7 @@
 - [Resilient Web Design](https://resilientwebdesign.com)
 - [Human Interface Guidelines](http://humaninterfaceguidelines.tumblr.com)
 - [Getting Practical with Microcopy](https://www.smashingmagazine.com/2016/07/getting-practical-with-microcopy/)
+- [Why You Should Not Ignore Empty States Aspect Of UX Design?](http://acodez.in/empty-states-aspect-of-ux-design/)
 
 ## Tricks
 - [Removing Letter Spacing From Last Letter](https://iamsteve.me/blog/entry/remove-letter-spacing-from-last-letter)

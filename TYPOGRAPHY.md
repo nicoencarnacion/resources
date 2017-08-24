@@ -53,7 +53,7 @@
 - [Typeset.js](https://blot.im/typeset/)
 
 ## Font Comparison
-- [TypeCase App](http://typecaseapp.com) *Mac Only
+- [TypeCase App](http://typecaseapp.com)
 
 ## Inspiration
 - [Claire Coullon Portfolio](http://coullon.com)
