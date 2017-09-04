@@ -3,6 +3,7 @@
 ## Premium Resources
 - [LStore Graphics](https://lstore.graphics)
 - [360mockups](https://360mockups.com/)
+- [Great Simple Studio](http://greatsimple.io/)
 
 ## Repositories
 - [Codyhouse](http://codyhouse.co)
