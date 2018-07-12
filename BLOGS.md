@@ -2,7 +2,6 @@
 
 ## Design
 - [Google Design](https://design.google/)
-
+- [DesignBetter.co](https://www.designbetter.co)
 ## User Experience
-
-## Frontend
+- [Playbook](https://askplaybook.com)

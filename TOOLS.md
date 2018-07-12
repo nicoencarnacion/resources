@@ -48,3 +48,6 @@
 
 ## Analytics
 - [Hotjar](https://www.hotjar.com/)
+
+## User Research
+- [PingPong](https://hellopingpong.com)
